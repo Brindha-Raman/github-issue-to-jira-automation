@@ -225,27 +225,27 @@ Jira work item is visible in Jira backlog.
 
 ### GitHub Issue Created
 
-`screenshots/issue_created.png`
+![Image Name](screenshots/issue_created.png)
 
 ### GitHub Comment
 
-`screenshots/github_comment.png`
+![Image Name](screenshots/github_comment.png)
 
 ### EC2 Flask Application Running
 
-`screenshots/ec2_flask_app_running.png`
+![Image Name](screenshots/ec2_flask_app_running.png)
 
 ### GitHub Webhook Configuration
 
-`screenshots/webhook_url.png`
+![Image Name](screenshots/webhook_url.png)
 
 ### Terminal Output
 
-`screenshots/terminal_output.png`
+![Image Name](screenshots/terminal_output.png)
 
 ### Jira Ticket Created
 
-`screenshots/jira_ticket_created.png`
+![Image Name](screenshots/jira_ticket_created.png)
 
 ---
 
